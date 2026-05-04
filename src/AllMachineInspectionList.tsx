@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { Search, Filter, Eye, ChevronLeft, ChevronRight, X } from 'lucide-react'
+import { Search, Eye, ChevronLeft, ChevronRight, X } from 'lucide-react'
 
 interface MachineInspectionRecord {
   id: number
